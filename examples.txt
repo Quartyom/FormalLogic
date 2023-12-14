@@ -1,0 +1,5 @@
+A^(BvC)=(A^B)v(A^C)
+!G>(H>(G>E))
+(A^B)>C/A>(B>C)
+Av(BvC)=(AvB)vC
+Av(A^B)/A
